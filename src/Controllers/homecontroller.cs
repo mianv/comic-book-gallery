@@ -4,9 +4,9 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using src.Models;
+using ComicBookGallery.Models;
 
-namespace src.Controllers
+namespace ComicBookGallery.Controllers
 {
     public class HomeController : Controller
     {

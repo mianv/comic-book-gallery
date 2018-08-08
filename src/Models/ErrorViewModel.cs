@@ -1,6 +1,6 @@
 using System;
 
-namespace src.Models
+namespace ComicBookGallery.Models
 {
     public class ErrorViewModel
     {
