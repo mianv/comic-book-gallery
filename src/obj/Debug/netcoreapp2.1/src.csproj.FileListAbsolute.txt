@@ -30,3 +30,4 @@ C:\Users\FDSA\source\comic-book-gallery\src\bin\Debug\netcoreapp2.1\src.Views.dl
 C:\Users\FDSA\source\comic-book-gallery\src\bin\Debug\netcoreapp2.1\src.Views.pdb
 C:\Users\FDSA\source\comic-book-gallery\src\obj\Debug\netcoreapp2.1\src.Views.pdb
 C:\Users\FDSA\source\comic-book-gallery\src\obj\Debug\netcoreapp2.1\src.csproj.CopyComplete
+C:\Users\FDSA\source\comic-book-gallery\src\obj\Debug\netcoreapp2.1\Razor\Views\ComicBooks\Detail.g.cshtml.cs
