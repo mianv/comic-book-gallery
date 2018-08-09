@@ -56,7 +56,7 @@ namespace ComicBookGallery
             {
                 routes.MapRoute(
                     name: "default",
-                    template: "{controller=ComicBooks}/{action=Detail}/{id?}");
+                    template: "{controller=ComicBooks}/{action=Detail}/{id=1}");
             });
         }
     }
